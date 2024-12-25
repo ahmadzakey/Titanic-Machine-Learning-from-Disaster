@@ -7,7 +7,8 @@ Data cleaning, exploration, and analysis were conducted using Python, with visua
 
 📊 **View My Power BI Dashboard**  
 
-![Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTQ2Y2Q0YjMtOWJlMy00OTAwLThjNmItZWQyYzg0MGFmZTJlIiwidCI6ImJmZGJiMGQ5LWRhM2EtNDg2NS1iZTg1LTA2OWNkOTg4ZDY4NiIsImMiOjEwfQ%3D%3D)  
+![Uploading Dashboardimage.PNG…]()
+
 
 ---
 
