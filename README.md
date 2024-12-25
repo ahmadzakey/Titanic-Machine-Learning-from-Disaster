@@ -7,11 +7,7 @@ Data cleaning, exploration, and analysis were conducted using Python, with visua
 
 📊 **View My Power BI Dashboard**  
 
-
-
-
-![Uploading Dashboardimage.PNG…]()
-
+![Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTQ2Y2Q0YjMtOWJlMy00OTAwLThjNmItZWQyYzg0MGFmZTJlIiwidCI6ImJmZGJiMGQ5LWRhM2EtNDg2NS1iZTg1LTA2OWNkOTg4ZDY4NiIsImMiOjEwfQ%3D%3D)  
 
 ---
 
@@ -96,7 +92,7 @@ Two classification models were used to predict survival:
 ## Dashboard  
 
 The interactive Power BI dashboard can be accessed at the following link:  
-**[Power BI Dashboard](#)**  
+**[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTQ2Y2Q0YjMtOWJlMy00OTAwLThjNmItZWQyYzg0MGFmZTJlIiwidCI6ImJmZGJiMGQ5LWRhM2EtNDg2NS1iZTg1LTA2OWNkOTg4ZDY4NiIsImMiOjEwfQ%3D%3D)**  
 
 ---
 
